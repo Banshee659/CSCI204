@@ -1,1 +1,1 @@
-# CSCI204
+#Produce a Championship based on a round robin basis. The program will prompt and accept the league type and number of teams as input then generate a Championship. In the Championship, a total ½*n*(n – 1) games played will be implemented. The output of the program will be the result of each games played as well as a ranking table that shows a team's position, points, goal scored, goal against...Concept of C++ classes, constructors, destructors, operators, inheritance, composition, polymorphism will be taken into practice in this assignment.
